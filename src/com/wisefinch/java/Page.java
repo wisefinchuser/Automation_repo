@@ -76,5 +76,16 @@ public class Page extends DriverScript{
 		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation PL Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
 		return new PlPage(browser);
 	}
+	
+	/*** Test case Method Name : navigateToOpenhrmlivePage
+	 * 	 Functionality         : validate Openhrmlive Page
+	 * 	 Created By			   : Subramanya MS
+	 * 
+	***/
+	public synchronized OpenhrmlivePage navigateToOpenhrmlivePage(int threadID , List<String> tempList , String pathLoc ) {
+		String testcasemethod = new Object(){}.getClass().getEnclosingMethod().getName();
+		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation Openhrmlive Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
+		return new OpenhrmlivePage(browser);
+	}
 
 }
