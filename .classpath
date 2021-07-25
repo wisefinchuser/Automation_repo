@@ -6,18 +6,18 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/common-lang3.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/extentreports-java-2.41.0-beta1.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/freemarker-2.3.23.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/jsoup-1.8.3.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/poi-3.12-20150511.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/selenium-server-standalone-3.141.59.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/sqlite-jdbc-3.8.11.1.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/sikulixapi.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/javax.mail-1.6.0.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/common-lang3.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/commons-io-2.8.0.jar"/>
-	<classpathentry kind="lib" path="D:/users/subramanya/workspace/Wisefinch/master_framework/seleniumjars/alljars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/extentreports-java-2.41.0-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome Anandh !!!/git/Automation_repo/seleniumjars/alljars/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -87,5 +87,17 @@ public class Page extends DriverScript{
 		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation Openhrmlive Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
 		return new OpenhrmlivePage(browser);
 	}
+	
+	/*** Test case Method Name : navigateToTricentisPage
+	 * 	 Functionality         : validate Tricentis Page
+	 * 	 Created By			   : Anandh
+	 * 
+	***/
+	public synchronized TricentisPage navigateToTricentisPage(int threadID , List<String> tempList , String pathLoc ) {
+		String testcasemethod = new Object(){}.getClass().getEnclosingMethod().getName();
+		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation Tricentis Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
+		return new TricentisPage(browser);
+	}
 
+	
 }
