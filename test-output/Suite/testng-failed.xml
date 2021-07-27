@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]">
   <test thread-count="5" name="StandaloneWin10(failed)">
     <classes>
-      <class name="com.wisefinch.java.PlClass">
+      <class name="com.wisefinch.java.TricentistestClass">
         <methods>
           <include name="wrapUp"/>
           <include name="setup"/>
-          <include name="validate_Aseedtest_PL_Rev1" invocation-numbers="0"/>
+          <include name="validate_Tricentis_minimum_rev1"/>
         </methods>
-      </class> <!-- com.wisefinch.java.PlClass -->
+      </class> <!-- com.wisefinch.java.TricentistestClass -->
     </classes>
   </test> <!-- StandaloneWin10(failed) -->
 </suite> <!-- Failed suite [Suite] -->

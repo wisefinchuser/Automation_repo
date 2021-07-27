@@ -109,5 +109,16 @@ public class Page extends DriverScript{
 		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation Saucedemo Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
 		return new SaucedemoPage(browser);
 	}
+	
+	/*** Test case Method Name : navigateToTricentistestPage
+	 * 	 Functionality         : validate Tricentis Page
+	 * 	 Created By			   : Subramanya MS
+	 * 
+	***/
+	public synchronized TricentistestPage navigateToTricentistestPage(int threadID , List<String> tempList , String pathLoc ) {
+		String testcasemethod = new Object(){}.getClass().getEnclosingMethod().getName();
+		ReusableComponents.reportInfo(threadID,tempList, testcasemethod , "Validation tricentis Page" , browser ,pathLoc+"\\"+testcasemethod , false );			
+		return new TricentistestPage(browser);
+	}
 
 }
